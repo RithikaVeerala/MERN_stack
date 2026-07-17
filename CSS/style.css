@@ -1,0 +1,29 @@
+p{
+    font-family:'Courier New', Courier, monospace;
+}
+.list{
+    color: fuchsia;
+}
+.ll{
+    color: rgb(7, 2, 101);
+}
+.but{
+    color: orange;
+}
+table,th,td{
+    border-style: solid;
+}
+td{
+    color: cadetblue;
+}
+li{
+    font-style: italic;
+    font-weight: initial;
+    background-color: rgb(237, 155, 166);
+    width: fit-content;
+    background: linear-gradient(pink,lavender,yellow);
+}
+h1{
+    position: sticky;
+    top:1cm;
+}

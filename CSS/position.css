@@ -1,0 +1,12 @@
+form{
+    margin:0.3cm 0.2cm 0.5cm 0.3cm;
+    border-style: groove;
+    border-width:0.6cm;
+    border-color:darkmagenta peachpuff red ;
+    border-radius: 20px 80px 0px 50px;
+    padding:0.6cm 0.2cm 0.5cm 0.6cm;
+}
+h1{
+    position:static;
+    top:2cm
+}

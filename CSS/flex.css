@@ -1,0 +1,16 @@
+.container{
+    display:flex;
+    background-color: darkgoldenrod;
+    flex-direction: row;
+}
+.box{
+    width:100px;
+    height: 100px;
+    background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cornsilk;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+    line-height: 100px;
+}

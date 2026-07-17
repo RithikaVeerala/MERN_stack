@@ -1,0 +1,32 @@
+body{
+ animation:moves 20s linear 3s 4;
+}
+img{
+    animation: place 10s linear 3s infinite;
+}
+@keyframes moves {
+    0%
+    {
+        background-color:cadetblue;
+    }
+    20%{
+        font-family: 'Courier New', Courier, monospace;
+        background-color: burlywood;
+        color:crimson
+    }
+    40%{
+        font-family: 'Times New Roman', Times, serif;
+        background-color: aliceblue;
+        color: bisque;
+    }
+    60%{
+        font-family: 'Times New Roman', Times, serif;
+        background-color: rgb(220, 254, 50);
+        color: rgb(117, 65, 1);
+    }
+    80%{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color: rgb(48, 156, 250);
+        color: rgba(234, 66, 195, 0.655);
+    }
+}
